@@ -1,5 +1,5 @@
 # PyNG
-PyNG es un programa que utiliza la inteligencia artificial para transformar tus imágenes a formato PNG con alta calidad y eficiencia. El programa tiene una interfaz gráfica de usuario basada en Tkinter, que te permite seleccionar las imágenes que quieres convertir y ajustar las opciones de compresión, resolución y color. El programa utiliza la librería [rembg](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) para eliminar el fondo de las imágenes usando redes neuronales profundas.
+PyNG es un programa que utiliza la inteligencia artificial para transformar tus imágenes a formato PNG con alta calidad y eficiencia. El programa tiene una interfaz gráfica de usuario basada en Tkinter, que te permite seleccionar las imágenes que quieres convertir y ajustar las opciones de compresión, resolución y color. El programa utiliza la librería [rembg](https://github.com/danielgatis/rembg) para eliminar el fondo de las imágenes usando redes neuronales profundas.
 
 ## Requisitos
 Para usar este programa, necesitas tener instalados los siguientes paquetes:
