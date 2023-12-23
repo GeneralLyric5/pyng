@@ -6,9 +6,7 @@ Para usar este programa, necesitas tener instalados los siguientes paquetes:
 
 - Python 3.8 o superior
 - Tkinter
-- PIL
 - rembg
-- cv2
 
 Puedes instalarlos usando el comando `pip install -r requirements.txt`.
 
